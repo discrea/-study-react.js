@@ -1,3 +1,7 @@
 .alert_box {
-  color: red;
+  background: rgb(160, 247, 48);
+  color: rgb(236, 92, 48);
+  padding: 20px;
+  border-radius: 5px;
+  display: none;
 }
